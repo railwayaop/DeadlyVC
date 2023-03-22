@@ -14,7 +14,6 @@ import aiohttp
 from Deadly.converter import convert
 import ffmpeg
 import requests
-from Deadly.invite import AssistantAdd
 from Deadly.core.fonts import CHAT_TITLE
 from PIL import Image, ImageDraw, ImageFont
 from Deadly.core.filters import command, other_filters
